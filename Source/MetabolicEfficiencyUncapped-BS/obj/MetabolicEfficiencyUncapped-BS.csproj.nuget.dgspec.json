@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped-BS\\MetabolicEfficiencyUncapped-BS.csproj": {}
+  },
+  "projects": {
+    "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped-BS\\MetabolicEfficiencyUncapped-BS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped-BS\\MetabolicEfficiencyUncapped-BS.csproj",
+        "projectName": "MetabolicEfficiencyUncapped.BS",
+        "projectPath": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped-BS\\MetabolicEfficiencyUncapped-BS.csproj",
+        "packagesPath": "C:\\Users\\xuyit\\.nuget\\packages\\",
+        "outputPath": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped-BS\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xuyit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "framework": "net48",
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped\\MetabolicEfficiencyUncapped.csproj": {
+                "projectPath": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped\\MetabolicEfficiencyUncapped.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "targetAlias": "net48",
+          "dependencies": {
+            "Krafs.Rimworld.Ref": {
+              "target": "Package",
+              "version": "[1.6.4871, )"
+            },
+            "Lib.Harmony": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped\\MetabolicEfficiencyUncapped.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped\\MetabolicEfficiencyUncapped.csproj",
+        "projectName": "MetabolicEfficiencyUncapped",
+        "projectPath": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped\\MetabolicEfficiencyUncapped.csproj",
+        "packagesPath": "C:\\Users\\xuyit\\.nuget\\packages\\",
+        "outputPath": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xuyit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "framework": "net48",
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "targetAlias": "net48",
+          "dependencies": {
+            "Krafs.Rimworld.Ref": {
+              "target": "Package",
+              "version": "[1.6.4871, )"
+            },
+            "Lib.Harmony": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[2.*, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

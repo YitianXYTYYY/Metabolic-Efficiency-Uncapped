@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gIJ6MqLv4R0=",
+  "success": true,
+  "projectFilePath": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped-BS\\MetabolicEfficiencyUncapped-BS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xuyit\\.nuget\\packages\\krafs.rimworld.ref\\1.6.4871\\krafs.rimworld.ref.1.6.4871.nupkg.sha512",
+    "C:\\Users\\xuyit\\.nuget\\packages\\lib.harmony\\2.4.2\\lib.harmony.2.4.2.nupkg.sha512",
+    "C:\\Users\\xuyit\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = MetabolicEfficiencyUncapped
+build_property.ProjectDir = C:\Games\steamapps\common\RimWorld\Mods\Metabolic-Efficiency-Uncapped\Source\MetabolicEfficiencyUncapped\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

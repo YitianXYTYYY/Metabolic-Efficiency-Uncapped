@@ -1,0 +1,5 @@
+C:\Games\steamapps\common\RimWorld\Mods\Metabolic-Efficiency-Uncapped\Mods\redmattis.betterprerequisites\Assemblies\MetabolicEfficiencyUncapped.BS.dll
+C:\Games\steamapps\common\RimWorld\Mods\Metabolic-Efficiency-Uncapped\Source\MetabolicEfficiencyUncapped-BS\obj\Debug\MetabolicEfficiencyUncapped-BS.csproj.AssemblyReference.cache
+C:\Games\steamapps\common\RimWorld\Mods\Metabolic-Efficiency-Uncapped\Source\MetabolicEfficiencyUncapped-BS\obj\Debug\MetabolicEfficiencyUncapped-BS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\steamapps\common\RimWorld\Mods\Metabolic-Efficiency-Uncapped\Source\MetabolicEfficiencyUncapped-BS\obj\Debug\MetabolicEfficiencyUncapped-BS.csproj.CoreCompileInputs.cache
+C:\Games\steamapps\common\RimWorld\Mods\Metabolic-Efficiency-Uncapped\Source\MetabolicEfficiencyUncapped-BS\obj\Debug\MetabolicEfficiencyUncapped.BS.dll
