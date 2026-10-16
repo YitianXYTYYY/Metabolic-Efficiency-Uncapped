@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7D21B4A-1DA7-41D8-B202-C58CA8FA62AA}|MetabolicEfficiencyUncapped\\MetabolicEfficiencyUncapped.csproj|c:\\games\\steamapps\\common\\rimworld\\mods\\metabolic-efficiency-uncapped\\source\\metabolicefficiencyuncapped\\metabolicefficiencyuncapped.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D7D21B4A-1DA7-41D8-B202-C58CA8FA62AA}|MetabolicEfficiencyUncapped\\MetabolicEfficiencyUncapped.csproj|solutionrelative:metabolicefficiencyuncapped\\metabolicefficiencyuncapped.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6693F930-BF94-4B33-A275-0F532566633F}|MetabolicEfficiencyUncapped-BS\\MetabolicEfficiencyUncapped-BS.csproj|c:\\games\\steamapps\\common\\rimworld\\mods\\metabolic-efficiency-uncapped\\source\\metabolicefficiencyuncapped-bs\\metabolicefficiencyuncapped-bs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6693F930-BF94-4B33-A275-0F532566633F}|MetabolicEfficiencyUncapped-BS\\MetabolicEfficiencyUncapped-BS.csproj|solutionrelative:metabolicefficiencyuncapped-bs\\metabolicefficiencyuncapped-bs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MetabolicEfficiencyUncapped",
+              "DocumentMoniker": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped\\MetabolicEfficiencyUncapped.csproj",
+              "RelativeDocumentMoniker": "MetabolicEfficiencyUncapped\\MetabolicEfficiencyUncapped.csproj",
+              "ToolTip": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped\\MetabolicEfficiencyUncapped.csproj",
+              "RelativeToolTip": "MetabolicEfficiencyUncapped\\MetabolicEfficiencyUncapped.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-13T22:32:00.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MetabolicEfficiencyUncapped-BS",
+              "DocumentMoniker": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped-BS\\MetabolicEfficiencyUncapped-BS.csproj",
+              "RelativeDocumentMoniker": "MetabolicEfficiencyUncapped-BS\\MetabolicEfficiencyUncapped-BS.csproj",
+              "ToolTip": "C:\\Games\\steamapps\\common\\RimWorld\\Mods\\Metabolic-Efficiency-Uncapped\\Source\\MetabolicEfficiencyUncapped-BS\\MetabolicEfficiencyUncapped-BS.csproj",
+              "RelativeToolTip": "MetabolicEfficiencyUncapped-BS\\MetabolicEfficiencyUncapped-BS.csproj",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-13T22:32:24.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

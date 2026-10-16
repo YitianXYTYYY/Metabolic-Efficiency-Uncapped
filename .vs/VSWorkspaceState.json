@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Source"
+    "\\Source",
+    "\\Source\\MetabolicEfficiencyUncapped",
+    "\\Source\\MetabolicEfficiencyUncapped-BS"
   ],
-  "SelectedNode": "\\Source\\MetabolicEfficiencyUncapped.sln",
   "PreviewInSolutionExplorer": false
 }
