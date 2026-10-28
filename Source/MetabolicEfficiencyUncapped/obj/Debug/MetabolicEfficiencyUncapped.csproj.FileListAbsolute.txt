@@ -7,3 +7,5 @@ C:\Games\steamapps\common\RimWorld\Mods\Metabolic-Efficiency-Uncapped\Source\Met
 C:\Games\steamapps\common\RimWorld\Mods\Metabolic-Efficiency-Uncapped\Source\MetabolicEfficiencyUncapped\obj\Debug\refint\MetabolicEfficiencyUncapped.dll
 C:\Games\steamapps\common\RimWorld\Mods\Metabolic-Efficiency-Uncapped\Source\MetabolicEfficiencyUncapped\obj\Debug\ref\MetabolicEfficiencyUncapped.dll
 C:\Games\steamapps\common\RimWorld\Mods\Metabolic-Efficiency-Uncapped\Source\MetabolicEfficiencyUncapped\obj\Debug\Metaboli.6B29045B.Up2Date
+C:\Games\steamapps\common\RimWorld\Mods\Metabolic-Efficiency-Uncapped\1.7\Assemblies\MetabolicEfficiencyUncapped.deps.json
+C:\Games\steamapps\common\RimWorld\Mods\Metabolic-Efficiency-Uncapped\1.7\Assemblies\MetabolicEfficiencyUncapped.dll
