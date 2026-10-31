@@ -74,7 +74,7 @@
           "ref/net10.0/com.rlabrecque.steamworks.net.dll": {}
         }
       },
-      "Lib.Harmony/3.0.0-rc.3": {
+      "Lib.Harmony/3.0.0-rc.4": {
         "type": "package",
         "compile": {
           "lib/net10.0/0Harmony.dll": {
@@ -82,7 +82,7 @@
           }
         },
         "runtime": {
-          "lib/net10.0/_._": {
+          "lib/net10.0/0Harmony.dll": {
             "related": ".pdb;.xml"
           }
         }
@@ -101,7 +101,7 @@
         "framework": ".NETCoreApp,Version=v10.0",
         "dependencies": {
           "Krafs.Rimworld.Ref": "1.7.4990-unstable",
-          "Lib.Harmony": "3.0.0-rc.3",
+          "Lib.Harmony": "3.0.0-rc.4",
           "System.Data.DataSetExtensions": "4.5.0"
         },
         "compile": {
@@ -195,21 +195,24 @@
         "ref/net10.0/com.rlabrecque.steamworks.net.dll"
       ]
     },
-    "Lib.Harmony/3.0.0-rc.3": {
-      "sha512": "bW1UU49jqW9w5NxdTs7G+h7Nyi9FGs4cX4lHN3rP7+q62zwLk+cO4ypD/cRboAeq5jtgACt7u37o2KAE+O0RNg==",
+    "Lib.Harmony/3.0.0-rc.4": {
+      "sha512": "8jM3TLkIdfEFDJV/uiHWO/jTkRZmm/OPJpPFaInHWkh/ZhphGgGFjVZfFpJPRpa4Y0becFj/D9Xk9oHGu3NbAw==",
       "type": "package",
-      "path": "lib.harmony/3.0.0-rc.3",
+      "path": "lib.harmony/3.0.0-rc.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "HarmonyLogo.png",
         "LICENSE",
         "README.md",
-        "lib.harmony.3.0.0-rc.3.nupkg.sha512",
+        "lib.harmony.3.0.0-rc.4.nupkg.sha512",
         "lib.harmony.nuspec",
         "lib/net10.0/0Harmony.dll",
         "lib/net10.0/0Harmony.pdb",
         "lib/net10.0/0Harmony.xml",
+        "lib/net11.0/0Harmony.dll",
+        "lib/net11.0/0Harmony.pdb",
+        "lib/net11.0/0Harmony.xml",
         "lib/net35/0Harmony.dll",
         "lib/net35/0Harmony.pdb",
         "lib/net35/0Harmony.xml",
@@ -342,7 +345,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.403/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
