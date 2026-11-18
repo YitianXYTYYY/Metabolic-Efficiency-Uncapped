@@ -7,7 +7,7 @@
 		<LangVersion>latest</LangVersion>
 		<RootNamespace>MetabolicEfficiencyUncapped.BS</RootNamespace>
 		<AssemblyName>MetabolicEfficiencyUncapped.BS</AssemblyName>
-		<OutputPath>../../1.7/Mods/redmattis.betterprerequisites/Assemblies</OutputPath>
+		<OutputPath>../../1.7/Mods/Big and Small - Framework/Assemblies</OutputPath>
 		<GenerateAssemblyInfo>false</GenerateAssemblyInfo>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 		<SteamModsPath>$(RIMWORLD_STEAM_MODS_PATH)</SteamModsPath>
@@ -25,6 +25,7 @@
 	<ItemGroup>
 		<Reference Include="BSXeno">
 			<HintPath Condition="Exists('../../../../2925432336/1.6/Base/Assemblies/BSXeno.dll')">../../../../2925432336/1.6/Base/Assemblies/BSXeno.dll</HintPath>
+			<HintPath Condition="Exists('../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BSXeno.dll')">../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BSXeno.dll</HintPath>
 			<HintPath Condition="Exists('../../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BSXeno.dll')">../../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BSXeno.dll</HintPath>
 			<HintPath Condition="Exists('../../../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BSXeno.dll')">../../../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BSXeno.dll</HintPath>
 			<HintPath Condition="Exists('../../../../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BSXeno.dll')">../../../../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BSXeno.dll</HintPath>
@@ -32,6 +33,7 @@
 		</Reference>
 		<Reference Include="BetterPrerequisites">
 			<HintPath Condition="Exists('../../../../2925432336/1.6/Base/Assemblies/BigAndSmall.dll')">../../../../2925432336/1.6/Base/Assemblies/BigAndSmall.dll</HintPath>
+			<HintPath Condition="Exists('../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BigAndSmall.dll')">../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BigAndSmall.dll</HintPath>
 			<HintPath Condition="Exists('../../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BigAndSmall.dll')">../../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BigAndSmall.dll</HintPath>
 			<HintPath Condition="Exists('../../../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BigAndSmall.dll')">../../../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BigAndSmall.dll</HintPath>
 			<HintPath Condition="Exists('../../../../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BigAndSmall.dll')">../../../../../../../../workshop/content/294100/2925432336/1.6/Base/Assemblies/BigAndSmall.dll</HintPath>
