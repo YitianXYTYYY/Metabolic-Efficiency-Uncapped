@@ -391,7 +391,7 @@
           "dependencies": {
             "Krafs.Rimworld.Ref": {
               "target": "Package",
-              "version": "[1.7.5011-unstable, )"
+              "version": "[1.7.5014-unstable, )"
             },
             "Lib.Harmony": {
               "target": "Package",
